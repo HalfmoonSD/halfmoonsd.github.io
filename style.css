@@ -36,5 +36,6 @@
 }
 body{
     background-image: url(images/Moon\ Phases\ Educational\ Presentation\ \(1\).png);
+    background-repeat: no repeat;
     background-attachment: fixed;
 }
