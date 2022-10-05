@@ -51,7 +51,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    bottom:20px
+    margin-top:75px;
   }
   
   .hero-text {
