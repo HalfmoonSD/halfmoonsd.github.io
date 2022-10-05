@@ -34,3 +34,7 @@
     margin-right: auto;
 
 }
+body{
+    background-image: url(images/Moon\ Phases\ Educational\ Presentation\ \(1\).png);
+    background-attachment: fixed;
+}
