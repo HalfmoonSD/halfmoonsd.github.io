@@ -39,3 +39,12 @@ body{
     background-repeat: no-repeat;
     background-attachment: local;
 }
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(FontsFree-Net-lucidity-condensed.ttf);
+}
+
+#name_navbar{
+    font-family: myFirstFont;
+}
