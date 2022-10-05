@@ -87,3 +87,14 @@ body, html {
     color:#ffffff;
     border: 2.4px solid #ffffff;
 }
+
+body{
+    margin:9;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6c6c6c;
+    text-align: left;
+    background-color: lightgrey;
+}
