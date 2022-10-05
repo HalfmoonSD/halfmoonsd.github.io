@@ -1,0 +1,36 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
+}
+
+
+.header-box{
+    background-color: black;
+    border:5px solid blue;
+    padding:20px;
+}
+.header-box > h1 {
+    font-family:monospace ;
+    color: white;
+    font-style: italic;
+    letter-spacing: 10px;
+    text-transform:uppercase;
+    word-spacing: 20px;
+    text-decoration: underline;
+}
+.bio-box{
+    border:5px dotted black;
+    padding: 20px;
+}
+.travel-box{
+    border: 5px solid black;
+    padding: 20px;
+}
+.travel-box > iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
