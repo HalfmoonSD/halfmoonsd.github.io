@@ -67,3 +67,23 @@
 body, html {
     height: 100%;
 }
+
+.about-img{ 
+    margin-top: 0px;
+
+}
+
+.btn{
+    padding: 10px 25px ;
+    border-radius: 100px;
+}
+
+.btn-white{
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+}
+
+.btn-blue{
+    color:#ffffff;
+    border: 2.4px solid #ffffff;
+}
